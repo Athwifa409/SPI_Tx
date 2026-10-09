@@ -1,0 +1,6 @@
+"./Src/Spi_tx_testing.o"
+"./Src/stm32f407_gpio.o"
+"./Src/stm32f407_spi.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f407vgtx.o"
